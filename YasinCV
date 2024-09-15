@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Yasin Ullah's Professional CV">
+    <title>Yasin Ullah - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #0066cc;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #0066cc;
+            padding-bottom: 5px;
+        }
+        .contact-info p, .personal-profile p {
+            margin: 5px 0;
+        }
+        .qualifications table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .qualifications th, .qualifications td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        .qualifications th {
+            background-color: #0066cc;
+            color: white;
+        }
+        .skills ul, .experience ul {
+            list-style: disc inside;
+            padding-left: 20px;
+        }
+        .skills ul li, .experience ul li {
+            margin-bottom: 5px;
+        }
+        .soft-skills ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        .soft-skills ul li::before {
+            content: "✔";
+            color: #0066cc;
+            margin-right: 10px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Yasin Ullah</h1>
+    <p><strong>Address:</strong> Village Baker Khel P/O & Tehsil Domel Distt. Bannu</p>
+    <p><strong>Contact number:</strong> 0313-9842219</p>
+    <p><strong>Email:</strong> vking.kahn@gmail.com</p>
+
+    <div class="section">
+        <h2>Career Objective</h2>
+        <p>A passionate computer enthusiast seeking a position in an innovative and dynamic organization. I aim to leverage my technical skills and enthusiasm for learning to contribute effectively to the organization's success while continuously expanding my knowledge and expertise in the field of technology.</p>
+    </div>
+
+    <div class="section personal-profile">
+        <h2>Personal Profile</h2>
+        <p><strong>Date of Birth:</strong> March 10, 1998</p>
+        <p><strong>District:</strong> Bannu</p>
+        <p><strong>Nationality:</strong> Pakistani</p>
+        <p><strong>Religion:</strong> Islam</p>
+        <p><strong>Marital Status:</strong> Married</p>
+        <p><strong>Phone Numbers:</strong> 0313-9842219 / 0336-1593533</p>
+    </div>
+
+    <div class="section qualifications">
+        <h2>Academic Qualification</h2>
+        <table>
+            <tr>
+                <th>Degree / Certificate</th>
+                <th>Passing Year</th>
+                <th>Board / University</th>
+                <th>Marks Obtained</th>
+                <th>Division / Grade</th>
+            </tr>
+            <tr>
+                <td>Matric</td>
+                <td>2013</td>
+                <td>BISE Bannu</td>
+                <td>667/1050</td>
+                <td>1st Division</td>
+            </tr>
+            <tr>
+                <td>ICS</td>
+                <td>2016</td>
+                <td>BISE Bannu</td>
+                <td>692/1100</td>
+                <td>2nd Division</td>
+            </tr>
+            <tr>
+                <td>B.Sc</td>
+                <td>2021</td>
+                <td>Bannu University</td>
+                <td>346/550</td>
+                <td>1st Division</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section skills">
+        <h2>Extra Skills</h2>
+        <ul>
+            <li>Strong interpersonal and communication skills.</li>
+            <li>Proficient in internet and computer operations, including data entry.</li>
+            <li>Expertise as a computer operator.</li>
+            <li>Advanced proficiency in MS Office Suite (Word, Excel, PowerPoint, Access, Project).</li>
+            <li>Web development skills (PHP, HTML, JavaScript, MySQL, CSS, WordPress, AJAX, jQuery).</li>
+            <li>Automation Expertise: Browser automation using JavaScript and custom extensions, and computer automation using AutoHotkey (AHK) and Python.</li>
+            <li>Database Expertise: Proficient in SQL, Oracle (Forms and Reports), MS Access, and other database management systems.</li>
+            <li>Design proficiency with CorelDRAW and Adobe Creative Suite (Photoshop, Illustrator, InDesign, Dreamweaver).</li>
+            <li>Certified in all listed skills from Lynda.com, Pluralsight.com, and Udemy.com.</li>
+        </ul>
+    </div>
+
+    <div class="section experience">
+        <h2>Experience</h2>
+        <ul>
+            <li>2 years as a Website Developer and Computer Operator at Khalifa Gul Nawaz Hospital.</li>
+            <li>1 year as a Dynamic Web Developer at Mikesoft Software Housing, Bannu.</li>
+            <li>2 years of software development experience running your own software house, delivering custom software solutions for businesses.</li>
+            <li>4 years of part-time Graphic Design experience at Zalmai Net Café, using Photoshop, Illustrator, and CorelDRAW.</li>
+            <li>Developed automation scripts for browser and desktop tasks using JavaScript, AutoHotkey, and Python.</li>
+            <li>8 months with NADRA as an OPL employee.</li>
+            <li>2 years, 2 months at NADRA NSER BISP as a Junior Executive/Focal Person.</li>
+        </ul>
+    </div>
+
+    <div class="section soft-skills">
+        <h2>Soft Skills</h2>
+        <ul>
+            <li>Leadership</li>
+            <li>Problem-Solving</li>
+            <li>Team Collaboration</li>
+            <li>Time Management</li>
+            <li>Adaptability</li>
+        </ul>
+    </div>
+
+    <div class="section languages">
+        <h2>Languages</h2>
+        <p><strong>English:</strong> Read, Write, Speak, Type</p>
+        <p><strong>Urdu:</strong> Read, Write, Speak, Type</p>
+        <p><strong>Pashto:</strong> Read, Write, Speak, Type</p>
+        <p><strong>Arabic:</strong> Read, Write, Type</p>
+    </div>
+
+    <div class="section references">
+        <h2>References</h2>
+        <p><strong>Qadir Ullah</strong> (Senior Executive, NADRA ERP No. 33034, in charge of SMU Domel)</p>
+        <p><strong>Phone:</strong> +92-335-9798980</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Yasin Ullah | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
