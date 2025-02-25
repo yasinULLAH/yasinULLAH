@@ -51,7 +51,7 @@ A passionate computer enthusiast seeking a position in an innovative and dynamic
 - **4 years** of part-time Graphic Design experience at **Zalmai Net Café**, using Photoshop, Illustrator, and CorelDRAW.
 - Developed automation scripts for browser and desktop tasks using JavaScript, AutoHotkey, and Python.
 - **8 months** with **NADRA** as an OPL employee.
-- **2 years, 2 months** at **NADRA NSER BISP** (Benazir Income Support Program) as a Junior Executive/Focal Person.
+- **3 years, 1 months** at **NADRA NSER BISP** (Benazir Income Support Program) as a Junior Executive/Focal Person.
 
 ---
 
