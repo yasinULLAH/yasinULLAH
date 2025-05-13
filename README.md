@@ -1,3 +1,167 @@
+
+# 🚀 Yasin Ullah | Tech Polymath
+
+
+## 💫 Tech Innovator \& Full-Stack Developer
+
+> "Building tomorrow's solutions with today's code"
+
+Passionate technologist with deep expertise across multiple domains, seeking to leverage my diverse technical arsenal in an innovative organization that values creativity and technical excellence. My mission is to transform complex business problems into elegant digital solutions while continuously expanding my technological horizons.
+
+```javascript
+const yasinProfile = {
+  location: "Bannu, Pakistan",
+  contact: {
+    email: "vking.kahn@gmail.com",
+    phone: ["0313-9842219", "0336-1593533"]
+  },
+  domains: ["Full-Stack Development", "Automation Engineering", "Database Architecture", "UX Design"],
+  personalDetails: {
+    dob: "March 10, 1998",
+    nationality: "Pakistani",
+    religion: "Islam",
+    maritalStatus: "Married"
+  },
+  currentFocus: "Developing intelligent automation solutions for enterprise workflows"
+};
+```
+
+
+## 🛠️ Technical Arsenal
+
+### 💻 Development
+
+### 🤖 Automation
+
+### 🗃️ Databases
+
+### 🎨 Design
+
+### 🖥️ Office Productivity
+
+## 🎓 Education \& Certifications
+
+```mermaid
+graph LR
+    A[B.Sc - 2021] --> B[Bannu University - 346/550 - 1st Division]
+    C[ICS - 2016] --> D[BISE Bannu - 692/1100 - 2nd Division]
+    E[Matric - 2013] --> F[BISE Bannu - 667/1050 - 1st Division]
+    G[Technical Certifications] --> H[Lynda.com]
+    G --> I[Pluralsight.com]
+    G --> J[Udemy.com]
+```
+
+
+## 👨‍💻 Professional Journey
+
+### NADRA NSER BISP | Junior Executive/Focal Person
+
+*3 years, 1 month*
+
+- Managed critical data systems for the Benazir Income Support Program
+- Served as a focal point for technical operations and stakeholder communication
+- Implemented data integrity protocols and system optimizations
+
+
+### NADRA | OPL Employee
+
+*8 months*
+
+- Handled data entry and verification processes
+- Contributed to the national database management
+- Ensured data accuracy and security compliance
+
+
+### Independent Software Development | Founder
+
+*2 years*
+
+- Established and operated a software development business
+- Delivered custom software solutions to diverse business clients
+- Managed full project lifecycles from requirements gathering to deployment
+
+
+### Mikesoft Software Housing | Dynamic Web Developer
+
+*1 year*
+
+- Created interactive web applications with focus on user experience
+- Implemented database solutions and optimized backend processes
+- Developed custom client-specific web applications
+
+
+### Khalifa Gul Nawaz Hospital | Website Developer \& Computer Operator
+
+*2 years*
+
+- Designed and maintained the hospital's web presence
+- Managed digital infrastructure and IT operations
+- Implemented data management systems for patient records
+
+
+### Zalmai Net Café | Graphic Designer
+
+*4 years (part-time)*
+
+- Created visual assets for marketing campaigns
+- Designed print and digital materials for clients
+- Utilized Adobe Creative Suite and CorelDRAW for professional designs
+
+
+## 🧠 Core Competencies
+
+### Technical Prowess
+
+- **Full-Stack Web Development**: End-to-end web solutions with focus on performance
+- **Automation Engineering**: Custom scripts for browser and system automation
+- **Database Architecture**: Data modeling, query optimization, and system integration
+- **UX/UI Design**: User-centered design principles with professional design tools
+
+
+### Professional Skills
+
+- **Leadership**: Project management and team coordination experience
+- **Problem-Solving**: Analytical approach to technical challenges
+- **Team Collaboration**: Effective communication in diverse work environments
+- **Time Management**: Prioritization and deadline management
+- **Adaptability**: Quick learning and adaptation to new technologies
+
+
+## 🌐 Languages
+
+| Language | Reading | Writing | Speaking | Typing |
+| :-- | :--: | :--: | :--: | :--: |
+| English | ✓ | ✓ | ✓ | ✓ |
+| Urdu | ✓ | ✓ | ✓ | ✓ |
+| Pashto | ✓ | ✓ | ✓ | ✓ |
+| Arabic | ✓ | ✓ |  | ✓ |
+
+## 📊 GitHub Analytics
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:vking.kahn@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yasin-ullah-029229232/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/yking_khan"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/yasinullah"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="center">
+  📱 Phone: 0313-9842219 / 0336-1593533
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasinullah&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Address: Village Baker Khel P/O & Tehsil Domel Distt. Bannu, Pakistan</i>
+</p>
+
+
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="100" alt="Tech Icon">
   <h1>Yasin Ullah 🇵🇰</h1>
