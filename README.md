@@ -139,12 +139,12 @@ graph LR
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinullah&show_icons=true&theme=radical&rank_icon=github" height="195px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinullah&layout=compact&theme=radical" height="195px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinullah&amp;show_icons=true&amp;theme=radical&amp;rank_icon=github" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinullah&amp;layout=compact&amp;theme=radical" height="195" alt="Top Languages"/>
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinullah&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinullah&amp;theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 📫 Connect With Me
